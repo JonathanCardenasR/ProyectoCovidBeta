@@ -5,11 +5,11 @@ https://democontrolcovid.herokuapp.com
 
 Credenciales:
 -----------------
-guardia: 12345 (acceder a scanner)
+guardia: 123 (acceder a scanner)
 
-sistema: 12345 (acceder a datos de alumnos y personas)
+sistema: 123 (acceder a datos de alumnos y personas)
 
-salud: 12345 (acceder a historial medico y fichas sintomatológicas)
+salud: 123 (acceder a historial medico y fichas sintomatológicas)
 
 Alumnos y Padres Demo
 -------------------------
